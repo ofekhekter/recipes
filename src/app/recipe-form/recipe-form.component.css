@@ -1,0 +1,20 @@
+#form{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    text-align: start;
+}
+
+.input{
+    width: 20vw ;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+#save{
+    margin-top: 20px;
+    width: 10vw;
+}
